@@ -42,7 +42,7 @@ This project demonstrates how to turn raw customer + order data into **business-
 
 
 ## 📸 Sample Dashboard
-<img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/e7ff8698-cdde-408d-8f1b-f7aae037caa6" />
+<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/e7ff8698-cdde-408d-8f1b-f7aae037caa6" />
 <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/0d588610-ffca-40b4-bef8-80088b86ddad" />
 
 
